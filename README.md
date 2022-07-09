@@ -3,7 +3,7 @@ I was born and raised in Hawai'i on the island of O'ahu & eventually moved to Ly
 
 - 👀 I’m interested in starting a new career as a Software Engineer starting as Front-End & when I gain the experience eventually make my way to Full Stack!
 
-- 🌱 I’m currently learning HTML, CSS, & JavaScript.
+- 🌱 I’m currently enrolled in General Assembly's Full-Stack Software Engineering course.
 
 - 💞️ I’m looking to collaborate on any beginner friendly projects!
 
